@@ -9,7 +9,7 @@ Saving up CPU and RAM reccources.
 
 <img width="675" height="406" alt="Bildschirmfoto 2025-10-20 um 14 55 22" src="https://github.com/user-attachments/assets/3f734f73-8b9b-48b4-9917-a05a1878925e" />
 
-# What does the Script?
+# What will the script do?
 
   - Deletes temporary files in Windows
   - Stopps Windows Update
