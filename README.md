@@ -1,6 +1,8 @@
 # Steam-Big-Picture-Performance-Optimizer
 How to Download ?   Click on "Releases" on the right side ---->
 
+! Important ! run as Admin
+
 Optimizes Windows 10/11 to be more lightweight for gaming. 
 This script will stop multiple Windows services to make Windows more lightweight.
 Saving up CPU and RAM reccources.
