@@ -44,3 +44,21 @@ How to Confiure:
 ----
 Read the included README.txt file for more information.
 
+How to start with Windows boot-up
+----
+
+1. Press the Windows-Key an search for "Task Scheduler"
+2. On the right side, click on "Create Task..."
+3. At the bottom, check "Run with highest privileges"
+4. Go to "Triggers" (Top)
+5. New Trigger
+6. Begin Task "At log on"
+7. Any user or Specific however you prefer
+8. under Advanced Settings (same Window) - delay task for 10 Seconds
+9. "OK"
+10. Go to "Actions" (Top)
+11. New Action
+12. Action: Start a program
+13. programm/script: C:\Widnows\System32\cmd.exe
+14. Add arguments: /c "C:\Path\to\Your\location.bat"
+15. Done
