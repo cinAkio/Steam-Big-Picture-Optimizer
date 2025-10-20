@@ -59,6 +59,6 @@ How to start with Windows boot-up
 10. Go to "Actions" (Top)
 11. New Action
 12. Action: Start a program
-13. programm/script: C:\Widnows\System32\cmd.exe
+13. programm/script: C:\Windows\System32\cmd.exe
 14. Add arguments: /c "C:\Path\to\Your\location.bat"
 15. Done
