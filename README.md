@@ -1,4 +1,4 @@
-# Steam-Big-Picture-Optimizer
+# Steam-Big-Picture-Performance-Optimizer
 Optimizes Windows 10/11 to be more lightweight for gaming. 
 
 This script will stop multiple Windows services to make Windows more lightweight.
