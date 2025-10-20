@@ -9,10 +9,15 @@ Saving up CPU and RAM reccources.
 What does the Script?
 
 Deletes temporary files in Windows
+
 Stopps Windows Update
+
 Stopps Windows Defender
+
 Terminates Windows Explorer
+
 Stopps multiple Windows services that aren't necessary for Gamign
+
 Starts Steam normally or in Big Picture mode
 
 All actions can be configured in the "config.ini" file.
